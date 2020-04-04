@@ -1,6 +1,6 @@
 # Construclab TimberClick
 
-![Instaled Creator Transfer Chamber](https:/https://github.com/ConstructLab/TimberClick/blob/master/TimberClick2.jpg)
+![TimberClick](https://github.com/ConstructLab/TimberClick/blob/master/TimberClick2.jpg)
 
 Creator's sealed takeout window & pressure system is designed to optimize the safety of retail staff and sanitation of retail experiences for the coronavirus era. 
 
