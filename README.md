@@ -40,4 +40,4 @@ This kit is certified open hardware. See [OSHW_BEXXXXXXX](https://certification.
 
 # About Constructlab
 TEXT
-Find out more at http://www.constructlab.net.
+Find out more at https://www.constructlab.net.
