@@ -1,6 +1,6 @@
 # Construclab TimberClick
 
-![TimberClick](https://github.com/ConstructLab/TimberClick/blob/master/TimberClick2.jpg)
+![TimberClick](https://github.com/ConstructLab/TimberClick/blob/master/00%20Assets/TimberClick1.jpg)
 
 What? .....
 
